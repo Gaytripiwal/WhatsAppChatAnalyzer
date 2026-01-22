@@ -145,25 +145,27 @@ This project enables users to analyze WhatsApp chat files exported in `.txt` for
    ```bash
    git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
 
-2. **Install backend dependencies**
-cd backend
+# 1. Clone the repository
+git clone https://github.com/yourusername/whatsapp-chat-analyzer.git
+
+# 2. Go to backend folder and install dependencies
+cd whatsapp-chat-analyzer/backend
 npm install
 
-3. **Install frontend dependencies**
+# 3. Go to frontend folder and install dependencies
 cd ../frontend
 npm install
 
-
-4. **Run backend server**
+# 4. Run backend server
 cd ../backend
 npm start
 
-5. **Run frontend**
+# 5. Run frontend
 cd ../frontend
 npm start
 
-6. **Open in browser**
-http://localhost:3000
+# 6. Open in browser
+Open http://localhost:3000
 
 
 5. Usage
@@ -192,11 +194,4 @@ Interactive charts showing group participation trends.
 
 GitHub Repository: https://github.com/yourusername/whatsapp-chat-analyzer
 
-
----
-
-This is **fully formatted, copy-paste ready**, and already includes numbered sections, sub-bullets, and code blocks for commands. ✅  
-
-If you want, I can also **add a “Screenshots / Demo” section and prettier emojis** so your GitHub README looks **super professional and eye-catching**.  
-
-Do you want me to do that?
+ 
